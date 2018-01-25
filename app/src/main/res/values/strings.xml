@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FileDownloader</string>
+    <string name="no_connection">No Connection!</string>
+    <string name="check_your_connection">Please check your Network Connection!</string>
+    <string name="msg_no_network_connection">No Network Connection</string>
+    <string name="invalid_url_error_message">Please check the URL you have entered</string>
+    <string name="download_complete">File Download Complete</string>
+    <string name="permission_denied_message">Permission Denied, Please allow to proceed !</string>
+    <string name="network_dialog_title">Title...</string>
+    <string name="download_file">Download File</string>
+    <string name="type_here">Type here</string>
+    <string name="url_input_box">Type a url or input ht to get autosuggestion urls</string>
+    <string-array name="auto_suggestion_url">
+        <item>https://www.bjrnet.com/images/test/Testing_in_Progress.gif</item>
+        <item>http://speedtest.ftp.otenet.gr/files/test100Mb.db</item>
+        <item>https://speed.hetzner.de/1GB.bin</item>
+        <item>https://speed.hetzner.de//10GB.bin</item>
+    </string-array>
+</resources>
